@@ -1,6 +1,6 @@
 {
-  "name": "biodata",
-  "version": "1.0.0",
+  "name": "theme-change",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
